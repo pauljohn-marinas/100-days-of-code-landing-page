@@ -19,7 +19,7 @@ a{
     text-decoration: none;
 }
 header{
-    background-image: url("/images/desktop/image-header.jpg");
+    background-image: url("../images/desktop/image-header.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -81,10 +81,10 @@ nav{
     height: 75em;
 }
 .col-image-r{
-    background-image: url(/images/desktop/image-transform.jpg);
+    background-image: url("../images/desktop/image-transform.jpg");
 }
 .col-image-l{
-    background-image: url(/images/desktop/image-stand-out.jpg);
+    background-image: url("../images/desktop/image-stand-out.jpg");
 }
 .sub-heading{
     font-family: Fraunces, serif;
@@ -159,10 +159,10 @@ section.services{
     padding: 0 20em 10em 20em;
 }
 .services-content1{
-    background-image: url(/images/desktop/image-graphic-design.jpg);
+    background-image: url("../images/desktop/image-graphic-design.jpg");
 }
 .services-content2{
-    background-image: url(/images/desktop/image-photography.jpg);
+    background-image: url("../images/desktop/image-photography.jpg");
 }
 .services-heading{
     font-family: Fraunces, serif;
